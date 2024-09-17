@@ -3,7 +3,7 @@ First I start with Creating a new VM with Windows Server 2019 inside Oracle VM V
 ![AD1](https://github.com/user-attachments/assets/5e4f8a17-b8e8-4d49-b7cd-3901132476ff)
 
 
-In Network settings keep the Adaptar 1 As Nat, and enable Adaptar 2 as Internal Network
+In Network settings keep the Adapter 1 As Nat, and enable Adapter 2 as Internal Network
 
 ![ad2](https://github.com/user-attachments/assets/1c6af267-667d-4058-abbf-68a9e25c3142)
 
