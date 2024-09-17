@@ -1,5 +1,8 @@
 First I start with Creating a new VM with Windows Server 2019 inside Oracle VM VirtualBox Manager 7.0
 
+![AD1](https://github.com/user-attachments/assets/5e4f8a17-b8e8-4d49-b7cd-3901132476ff)
+
+
 In Network settings keep the Adaptar 1 As Nat, and enable Adaptar 2 as Internal Network
 
 At the installation I Select one of the Desktop Experience OS
