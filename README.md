@@ -1,3 +1,5 @@
+Resources used: Oracle VM VirtualBox, Windows 2019 server ISO, Windows 10 ISO
+
 The plan is to Create an AD environment using 2 Virtual Machines, one being the windows server 2019 managing the AD with a direct connection to internet and an internal net for the AD users of the domain, with the next structure:
 
 ![structure](https://github.com/user-attachments/assets/e6ade002-eb87-4997-9f8b-fa1d337c736d)
